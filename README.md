@@ -56,6 +56,6 @@ Example visualization of customer service performance:
 ---
 
 ## 📝 Author
-Developed by **[Your Name]**  
+Developed by **Suyash Shewale**  
 An Excel-based analysis project focusing on customer satisfaction and operational efficiency.
 
